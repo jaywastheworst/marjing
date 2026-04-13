@@ -1,0 +1,9 @@
+Public class CPSU_VITORIAS_STUDENT{
+    Public class static void main (string [] args){
+
+        system.out.println ("APRIL");
+        system.out.println ("GUMANA");
+        system.out.println (18);
+        
+    }
+}
